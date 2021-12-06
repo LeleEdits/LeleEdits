@@ -7,4 +7,4 @@
 ####   - Discord: Leander#7555
 ####   - Telegram: @LeleEdits
 ####   - Instagram: leander.bdn
-### - ⚡ Fun fact: Im stated learning Java with the Spigot API
+### - ⚡ Fun fact: Im started learning Java with the Spigot API
