@@ -12,4 +12,4 @@
 
 ---
 
-<img allign="left" alt="Leander's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeleEdits&show_icons=true&hide_border=true"/>
+<img allign="left" alt="Leander's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeleEdits&show_icons=true&hide_border=true&theme=dark"/>
