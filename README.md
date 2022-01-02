@@ -1,9 +1,10 @@
 ### Hi there, I'm Leander 👋
 
-## I'm a student from Bavaria, Germany
-### - 🔭 I’m currently working on a Discord allrounder Bot
+---
+
+### - 🔭 I’m currently working on some Java stuff
 ### - 🌱 I’m currently learning Java, HTML and CSS
-### - 💬 Ask me everything about Java or Web Development (CSS, HTML)
+### - 💬 Ask me everything about Java
 ### - 📫 How to reach me:
 ####   - Discord: Leander#7555
 ####   - Telegram: @LeleEdits
