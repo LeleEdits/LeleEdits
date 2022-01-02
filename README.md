@@ -14,4 +14,4 @@
 ---
 
 <img allign="left" alt="Leander's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeleEdits&show_icons=true&hide_border=true&theme=dark"/>
-<img allign="right" alt="Leander's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeleEdits&layout=compact"/>
+<img allign="right" alt="Leander's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeleEdits&layout=compact&theme=dark"/>
