@@ -8,7 +8,6 @@
 ### - 📫 How to reach me:
 ####   - Discord: Leander#7555
 ####   - Telegram: @LeleEdits
-####   - Instagram: leander.bdn
 ### - ⚡ Fun fact: I started learning Java with the Spigot API
 
 ---
