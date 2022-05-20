@@ -2,13 +2,11 @@
 
 ---
 
-### - 🔭 I’m currently working on some Java stuff
-### - 🌱 I’m currently learning Java, HTML and CSS
-### - 💬 Ask me everything about Java
+### - 🔭 I’m currently working on a Cloud
+### - 🌱 I’m currently learning HTML/CSS, JavaScript and PHP
 ### - 📫 How to reach me:
 ####   - Discord: Leander#7555
-####   - Telegram: @LeleEdits
-### - ⚡ Fun fact: I started learning Java with the Spigot API
+####   - Instagram: leander.bdn
 
 ---
 
