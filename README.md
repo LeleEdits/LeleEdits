@@ -6,9 +6,9 @@
 ```html
 <div class="languages">
   <p>Java</p>
-  <p>HTML/CSS</p>
-  <p>PHP</p>
-  <p>JavaScript</p>
+  <p class="learning">HTML/CSS</p>
+  <p class="learning">PHP</p>
+  <p class="learning">JavaScript</p>
 </div>
 
 <div class="coding-skills">
