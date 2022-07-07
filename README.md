@@ -3,9 +3,9 @@
   <hr width="100%" style="height:3px;">
   <h4>I know the following programming languages</h4>
   <br>
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png" width=50px height=50px>
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin.png" width=50px height=50px>
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/lua/lua.png" width=50px height=50px>
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png" width=40px height=40px>
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin.png" width=40px height=40px>
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/lua/lua.png" width=40px height=40px>
   <hr width="100%" style="height:3px;">
   <h4>My GitHub Stats</h4>
   <br>
