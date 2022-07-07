@@ -1,34 +1,21 @@
-```html
-<h1>Hi there, I'm Leander 👋</h1>
-```
----
-
-```html
-<div class="languages">
-  <p>Java</p>
-  <p class="learning">HTML/CSS</p>
-  <p class="learning">PHP</p>
-  <p class="learning">JavaScript</p>
+<div align="center">
+  <h1 class="title">Hi there, I'm Leander 👋</h1>
+  <hr width="100%" style="height:3px;">
+  <h3>I know the following programming languages</h3>
+  <br>
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png" width=50px height=50px>
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin.png" width=50px height=50px>
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/lua/lua.png" width=50px height=50px>
+  <hr width="100%" style="height:3px;">
+  <h3>My GitHub Stats</h3>
+  <br>
+  <img allign="center" alt="Leander's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeleEdits&layout=compact&hide_border=true&theme=dark"/>
+  <br>
+  <br>
+  <img allign="center" alt="Leander's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeleEdits&show_icons=true&hide_border=true&theme=dark"/>
 </div>
 
-<div class="coding-skills">
-  <p>Git</p>
-  <p>SQL</p>
-  <p>Terminal</p>
-</div>
 
-<div class="projects">
-  <p class="web">Server-Cloud</p>
-  <p class="flutter">RBA-App</p>
-  <p class="java">PVPCorner.com</p>
-</div>
 
-<div class="socials">
-  <p class="discord">Leander#7555</p>
-  <p class="instagram">leander.bdn</p>
-</div>
-```
----
 
-<img allign="left" alt="Leander's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeleEdits&show_icons=true&hide_border=true&theme=dark"/>
-<img allign="right" alt="Leander's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeleEdits&layout=compact&theme=dark"/>
+
